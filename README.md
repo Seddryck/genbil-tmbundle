@@ -7,6 +7,10 @@ A **TextMate Bundle** for the **genbiL** programming language. Check [nbi websit
     cd %userprofile%\.vs\Extensions
     git clone git://github.com/Seddryck/genbil-tmbundle genbil
 
+## Usage:
+
+Your file extension must be ```.genbil```
+
 The bundle currently includes syntax highlighting. Later, I'll add convenient listing for functions, and a number of expando snippets.
 
 Additions are always welcome.
