@@ -1,6 +1,6 @@
 # genbil-tmbundle
 
-A **TextMate Bundle** for the **genbiL** programming language.
+A **TextMate Bundle** for the **genbiL** programming language. Check [nbi website] (http://www.nbi.io/automation/home/) (section "automation") for more information about this language.
     
 ## Installation for Visual Studio:
 
